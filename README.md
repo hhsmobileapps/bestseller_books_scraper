@@ -1,7 +1,7 @@
 # SCRAPING THE BEST SELLER BOOKS OF 2020
 
 ### Goal
-The goal of this study is to show web scraping with Python.
+The goal of this study is to get Best-Seller Books of 2020 by using web scraping libraries of Python.
 
 ### Stages
 * The data is fetched from web by scraping the amazon's web site by using Python Beatifulsoup library.
